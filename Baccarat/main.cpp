@@ -3,8 +3,7 @@
 
 // This program will input American money and convert it to foreign currency
 
-// Anangafac Alabaweh
-// CSC-5-43410
+
 // Last Modified: 4/24/2021
 
 #include <iostream>
