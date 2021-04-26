@@ -1,0 +1,26 @@
+ To play this game, the minimum amount to bet is $20
+with  $100 being the maximum
+
+Two cards are randomly drawn for both the player and banker, with the highest number being 9 when the two cards are added for each side. The side with the highest number wins the draw. 
+However, if the number surpasses 9 it is considered as 0. With number 11 being considered as 1;
+
+Example:
+Should in case the 2 cards are drawn for the player side with number  6 and 9
+and two cards are drawn for the banker side with numbers 3 and 6; 
+
+when the player cards are added together, it is considered player is 5 
+and banker is 9, so the banker wins this draw. 
+
+So you can consider using this formula when the banker or player is greater than 9. 
+ total number of the side - 10 
+
+if you select a side and it turns out to have the highest number, your money is doubled 
+but if you choose the opposite side, you lose all of your money
+
+
+Moreover, if you select tie and both sides of the game have the same number at the end of the draw, you will win 8 times of your bet. however, if you place your bet on a tie and it turns out player or banker win, you will lose 
+your money
+
+credit: Alabaweh, 
+
+https://www.caesars.com/casino-gaming-blog/latest-posts/table-games/baccarat/how-to-play-baccarat#.YIJFh6FlCUk
