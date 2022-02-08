@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @alabaweh
+- 👋 Hi, I’m @alaba
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning majoring in Computer Science
 - 💞️ I’m looking to collaborate with any learning or research opportunity
 -
